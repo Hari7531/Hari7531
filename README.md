@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hari Nath</h1>
+<h1 align="center">Hi there 👋, I'm Hari </h1>
 <h3 align="center">Passionate about Data Science & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7531&label=Profile%20views&color=0e75b6&style=flat" alt="hari7531" /> </p>
