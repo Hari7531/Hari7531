@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7531&label=Profile%20views&color=0e75b6&style=flat" alt="hari7531" /> </p>
 
-- 🔭 I’m currently working on **AWS-SageMaker-Flight-Fare-Prediction**
+- 🔭 I’m currently working on **Microsoft Fabric**
 
-- 🌱 I’m currently learning **Docker, AWS, MLOps**
+- 🌱 I’m currently learning **Python, SQL, Microsoft Fabric**
 
 - 👯 I’m looking to collaborate on **end-to-end Machine Learning Projects**
 
